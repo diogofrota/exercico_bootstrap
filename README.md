@@ -14,8 +14,6 @@ O objetivo do exercício foi aplicar os conhecimentos adquiridos sobre Bootstrap
 - CSS
 - [Bootstrap](https://getbootstrap.com/) (versão utilizada: 5.0)
 
-## Instalação
 
-Para visualizar o projeto localmente, siga os passos abaixo:
 
 
